@@ -14,5 +14,12 @@ Then a browser will open for users to interact with the page.
 
 Demo: https://drive.google.com/file/d/1xmRZdjaxrxy_xPfJ4nPxCk11eD9KSxCD/view
 
+Github link: https://github.com/HungQuocDang/GoogleBook
+
+Deloyed link: https://hungquocdang.github.io/GoogleBook/
+
+Heroku: 
+
+
 
 ![Alt text](BooksAndDbase.png)
